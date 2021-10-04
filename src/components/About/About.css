@@ -1,0 +1,11 @@
+.about-container{
+    padding: 100px 0;
+}
+.context h2{
+    color:brown;
+    font-weight: bold;
+    font-size: 40px;
+}
+.context p{
+    padding: 20px 0;
+}

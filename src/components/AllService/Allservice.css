@@ -1,0 +1,11 @@
+.service-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    
+}
+.service-body{
+    background:azure
+}

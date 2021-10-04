@@ -1,0 +1,26 @@
+.single-teacher img{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+.single-teacher {
+    display: flex;
+    background: #fff;
+    padding: 20px;
+    border-radius: 20px 0 30px 0;
+}
+.single-teacher h2{
+    font-size: 22px;
+    font-weight: bold;
+    color: purple;
+}
+.link i{
+    margin-right: 10px;
+    background:rgb(206, 51, 51);
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 50%;
+    color: #fff
+}

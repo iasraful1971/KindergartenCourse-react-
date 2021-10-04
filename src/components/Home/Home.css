@@ -1,0 +1,25 @@
+.hero{
+    background-image:url(../../images/shap.png) ;
+    background-position: center;
+    height: 100vh;
+    background-size:auto;
+    padding: 100px 0;
+    margin-bottom: 500px;
+    margin-top: 100px;
+   
+}
+ .hero-section{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.hero h1{
+    color: purple;
+    font-weight: bold;
+    font-size: 45px;
+}
+.hero p{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}

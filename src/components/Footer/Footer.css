@@ -1,0 +1,45 @@
+.footer{
+    background: #333333;
+    padding: 50px 0;
+}
+.footer .container .flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer .container .flex ul{
+    list-style-type: none;
+}
+.footer .container .flex ul li{
+    color: rgb(187, 179, 179);
+    line-height: 30px;
+    font-size: 18px;
+    
+}
+.hr{
+    color: rgb(238, 237, 235);
+    width: 80%;
+    text-align: center;
+}
+.hrtag{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px 0;
+}
+.copyright{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: navajowhite;
+}
+
+.socials i{
+    margin-right: 20px;
+    background: coral;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 50%;
+    color: #111
+}

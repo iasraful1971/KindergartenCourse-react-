@@ -1,0 +1,13 @@
+.teacher-grid{
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: repeat(2, 1fr );
+    margin-top: 100px;
+    padding: 100px 0;
+}
+.tacher-container{
+    background:antiquewhite;
+}
+.dfr{
+    color: #111;
+}

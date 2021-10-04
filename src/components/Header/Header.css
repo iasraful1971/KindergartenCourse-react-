@@ -1,0 +1,16 @@
+.a{
+    text-decoration: none;
+    
+    color: #111;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.social i{
+    margin-right: 20px;
+    background:cornflowerblue;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 50%;
+    color: #fff
+}

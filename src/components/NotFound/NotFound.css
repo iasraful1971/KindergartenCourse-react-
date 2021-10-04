@@ -1,0 +1,28 @@
+.btn-danger{
+    background-color: #FF6E40;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 200;
+    margin-right: 10px;
+}
+.btn-white{
+    background-color: #FF6E40;
+    padding: 10px 15px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color:navajowhite;
+    font-size: 16px;
+    font-weight: 200;
+    margin-left: 10px;
+}
+.button-area{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    
+}
